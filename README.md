@@ -1,2 +1,2 @@
 # Sameer-Kankar
-my reposetry
+mini project
